@@ -17,7 +17,7 @@ This guide is a translation of [Sam Newberry's achievement guide in Russian](htt
 |:---|:---|
 ||Awarded for completing Felicia's quest. Fulfill all the requirements of the Strizhinsky wizard Severin.|
 
-|<img src="{{site.baseurl}}/images/achievement_guide/no_honor_among_thieves.jpg" width="64px"/>|No honor among thieves|
+|<img src="{{site.baseurl}}/images/achievement_guide/no_honor_among_thieves.jpg" width="64px" height="64px"/>|No honor among thieves|
 |:---|:---|
 ||Awarded for completing Diana's quest. Find the Thieves Guild badge in the Thieves Guild dungeon where Diana completed her initiation.|
 
