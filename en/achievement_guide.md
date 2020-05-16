@@ -4,10 +4,10 @@ title: Achievement-Guide
 lang-ref: home
 ---
 
-#Introduction
+# Introduction
 This guide is a translation of [Sam Newberry's achievement guide in Russian](https://steamcommunity.com/sharedfiles/filedetails/?id=2038447122). The following content contains many spoilers for the game.
 
-#Story Achievements
+# Story Achievements
 
 |<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px"/>|So you want to be a hero|
 |:---|:---|
@@ -19,4 +19,4 @@ This guide is a translation of [Sam Newberry's achievement guide in Russian](htt
 
 |<img src="{{site.baseurl}}/images/achievement_guide/no_honor_among_thieves.jpg" width="64px"/>|No honor among thieves|
 |:---|:---|
-||Awarded for completing Diana's quest. Find the Thieves Guild badge in the Thieves Guild dungeon where Diana completedd her initiation.|
+||Awarded for completing Diana's quest. Find the Thieves Guild badge in the Thieves Guild dungeon where Diana completed her initiation.|
