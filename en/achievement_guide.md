@@ -77,3 +77,5 @@ The quest for kikimora must be acquired on the second floor of the Warriors Guil
 <img src="{{site.baseurl}}/images/achievement_guide/there_prowls_a_sprite.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**There prowls a sprite ...**
 
 The Goblin lives at the very top of the Four Peaks (this location will open to you at the end of the first act). Upon arriving at the Four Peaks, move along the eastern side and at the very top you will find a staircase leading even higher. After climbing it, you will find yourself in the den of the goblin. The goblin himself is dangerous in that even before the start of the battle, he will throw a huge stone at the heroines, depriving them of some health, and often use a deafening blow in battle. You can, however, outsmart him. After locating the rope behind the tree immediately at the entrance, climb it to the top so that the goblin does not notice the heroines. Go up to the stone and push it on the head with a devil in order to start the battle with some advantage.
+
+# Legendary Equipment Achievements
