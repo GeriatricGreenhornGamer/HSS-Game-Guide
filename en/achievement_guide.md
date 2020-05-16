@@ -10,18 +10,13 @@ This guide is a translation of [Sam Newberry's achievement guide in Russian](htt
 # Story Achievements
 
 <img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**So you want to be a hero**
+Complete the training task at the beginning of the game (Diana's exam in the Thieves Guild)
 
-|<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px" height="64px"/>|So you want to be a hero|
-|:---|:---|
-||Complete the training task at the beginning of the game (Diana's exam in the Thieves Guild).|
+<img src="{{site.baseurl}}/images/achievement_guide/magical_girl.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Magical Girl
+Awarded for completing Felicia's quest. Fulfill all the requirements of the Strizhinsky wizard Severin.
 
-|<img src="{{site.baseurl}}/images/achievement_guide/magical_girl.jpg" width="64px" height="64px"/>|Magical Girl|
-|:---|:---|
-||Awarded for completing Felicia's quest. Fulfill all the requirements of the Strizhinsky wizard Severin.|
-
-|<img src="{{site.baseurl}}/images/achievement_guide/no_honor_among_thieves.jpg" width="64px" height="64px"/>|No honor among thieves|
-|:---|:---|
-||Awarded for completing Diana's quest. Find the Thieves Guild badge in the Thieves Guild dungeon where Diana completed her initiation.|
+<img src="{{site.baseurl}}/images/achievement_guide/no_honor_among_thieves.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No honor among thieves
+Awarded for completing Diana's quest. Find the Thieves Guild badge in the Thieves Guild dungeon where Diana completed her initiation.
 
 |<img src="{{site.baseurl}}/images/achievement_guide/follow_the_light.jpg" width="64px"/>|Follow the light|
 |:---|:---|
