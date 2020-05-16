@@ -8,7 +8,8 @@ lang-ref: home
 This guide is a translation of [Sam Newberry's achievement guide in Russian](https://steamcommunity.com/sharedfiles/filedetails/?id=2038447122). The following content contains many spoilers for the game.
 
 # Story Achievements
-<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px" height="64px"/> So you want to be a hero
+<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px" height="64px"/>    **So you want to be a hero**
+
 |<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px" height="64px"/>|So you want to be a hero|
 |:---|:---|
 ||Complete the training task at the beginning of the game (Diana's exam in the Thieves Guild).|
