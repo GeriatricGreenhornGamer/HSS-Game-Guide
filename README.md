@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HSS-Game-Guide
+title: "Heroines of Swords & Spells Game Guide"
 lang-ref: home
 ---
 
