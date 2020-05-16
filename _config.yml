@@ -54,3 +54,6 @@ kramdown:
 exclude:
   - jekyllbook
   - README.md
+
+chapters:
+ - path: en/achievement_guide.md
