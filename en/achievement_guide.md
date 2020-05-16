@@ -9,11 +9,11 @@ This guide is a translation of [Sam Newberry's achievement guide in Russian](htt
 
 # Story Achievements
 
-|<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px"/>|So you want to be a hero|
+|<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="64px" height="64px"/>|So you want to be a hero|
 |:---|:---|
 ||Complete the training task at the beginning of the game (Diana's exam in the Thieves Guild).|
 
-|<img src="{{site.baseurl}}/images/achievement_guide/magical_girl.jpg" width="64px"/>|Magical Girl|
+|<img src="{{site.baseurl}}/images/achievement_guide/magical_girl.jpg" width="64px" height="64px"/>|Magical Girl|
 |:---|:---|
 ||Awarded for completing Felicia's quest. Fulfill all the requirements of the Strizhinsky wizard Severin.|
 
@@ -25,11 +25,11 @@ This guide is a translation of [Sam Newberry's achievement guide in Russian](htt
 |:---|:---|
 ||Awarded for completing Svetlana's first quest involving the holy relics in Shelby.|
 
-|<img src="{{site.baseurl}}/images/achievement_guide/come_to_the_dark_side.jpg" width="64px"/>|Come to the dark side|
+|<img src="{{site.baseurl}}/images/achievement_guide/come_to_the_dark_side.jpg" width="64px" height="64px"/>|Come to the dark side|
 |:---|:---|
 ||Awarded for completing the Svetlana's second quest: explore the Deep Crevasse and fulfill the requirements of the entity living there.|
 
-|<img src="{{site.baseurl}}/images/achievement_guide/boot_camp.jpg" width="64px"/>|Boot camp|
+|<img src="{{site.baseurl}}/images/achievement_guide/boot_camp.jpg" width="64px" height="64px"/>|Boot camp|
 |:---|:---|
 ||Awarded for completing Anastasia's quest involving entry into the Guild of Warriors.|
 
