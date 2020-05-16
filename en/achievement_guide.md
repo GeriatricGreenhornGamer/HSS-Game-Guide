@@ -6,5 +6,6 @@ lang-ref: home
 
 Story Achievements
 
-|<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="40px"/>|So you want to be a hero|
-|:--|--:|
+|<img src="{{site.baseurl}}/images/achievement_guide/so_you_want_to_be_a_hero.jpg" width="100px"/>|So you want to be a hero|
+|:---|---:|
+||something|
