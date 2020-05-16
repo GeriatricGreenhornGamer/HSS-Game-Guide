@@ -68,7 +68,7 @@ The quest for the giant scorpion must be acquired on the second floor of the War
 During Felicia’s quest, you will learn about the secret cult of Abaddon in Strizhinsk and defeat it. If Diana has a sufficiently high perception, Diana will notice a switch (see screenshot below) on the island between the magic pump and the exit to the city in the Strizhinsk sewers. Pull the switch in order to reveal a nearby door. Behind the door is the room in which the Abaddon doll, a little girl turned into a vampire, is waiting. In battle, the doll summons skeletons, and upon defeat the doll transforms into a lost soul.
 
 <img src="{{site.baseurl}}/images/achievement_guide/abaddon_doll_location.png"/>
-
+Source: [Sam Newberry's achievement guide](https://steamuserimages-a.akamaihd.net/ugc/1018318017534805690/266A425E22D178E020195B76E4732A6968E70B91/)
 
 <img src="{{site.baseurl}}/images/achievement_guide/swamp_hag.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Swamp hag**
 
