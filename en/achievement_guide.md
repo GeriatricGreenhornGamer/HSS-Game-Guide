@@ -76,6 +76,57 @@ The quest for kikimora must be acquired on the second floor of the Warriors Guil
 
 <img src="{{site.baseurl}}/images/achievement_guide/there_prowls_a_sprite.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**There prowls a sprite ...**
 
-The Goblin lives at the very top of the Four Peaks (this location will open to you at the end of the first act). Upon arriving at the Four Peaks, move along the eastern side and at the very top you will find a staircase leading even higher. After climbing it, you will find yourself in the den of the goblin. The goblin himself is dangerous in that even before the start of the battle, he will throw a huge stone at the heroines, depriving them of some health, and often use a deafening blow in battle. You can, however, outsmart him. After locating the rope behind the tree immediately at the entrance, climb it to the top so that the goblin does not notice the heroines. Go up to the stone and push it on the head with a devil in order to start the battle with some advantage.
+The Goblin lives at the very top of the Four Peaks (this location will open to you at the end of the first act). Upon arriving at the Four Peaks, move along the eastern side and at the very top you will find a staircase leading even higher to another map. After climbing it, you will find yourself in the den of the goblin. The goblin himself is dangerous in that even before the start of the battle, he will throw a huge stone at the heroines, depriving them of some health, and often use a deafening blow in battle. You can, however, outsmart him. After locating the rope behind the tree immediately at the entrance, climb it to the top so that the goblin does not notice the heroines. Go up to the stone and push it on the head with a devil in order to start the battle with some advantage.
+
+<img src="{{site.baseurl}}/images/achievement_guide/glory_in_battle.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Glory in battle!**
+
+<img src="{{site.baseurl}}/images/achievement_guide/train_hard.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Train hard ...**
+
 
 # Legendary Equipment Achievements
+
+<img src="{{site.baseurl}}/images/achievement_guide/earth_amulet.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Earth Amulet**
+
+<img src="{{site.baseurl}}/images/achievement_guide/soldiers_spirit.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Soldier's spirit**
+
+<img src="{{site.baseurl}}/images/achievement_guide/star_guardian.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Star Guardian**
+
+<img src="{{site.baseurl}}/images/achievement_guide/Shepherd_girls.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Shepherd Girls**
+
+# Fetch/Collection Quests Achievements
+
+<img src="{{site.baseurl}}/images/achievement_guide/god_will_hear_thee.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gods will hear thee**
+
+<img src="{{site.baseurl}}/images/achievement_guide/scrooge.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scrooge**
+
+<img src="{{site.baseurl}}/images/achievement_guide/30_30_vision.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**30/30 vision**
+
+<img src="{{site.baseurl}}/images/achievement_guide/toss_a_coin_to_your_watchman.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Toss a coin to your watchman**
+
+<img src="{{site.baseurl}}/images/achievement_guide/pet_zoo.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Pet zoo**
+
+<img src="{{site.baseurl}}/images/achievement_guide/fight_another_day.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fight another day**
+
+<img src="{{site.baseurl}}/images/achievement_guide/knowledge_is_power.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Knowledge is power**
+
+<img src="{{site.baseurl}}/images/achievement_guide/cleanliness_is_godliness.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cleanliness is godliness**
+
+# Miscellaneous Quest Achievements
+
+<img src="{{site.baseurl}}/images/achievement_guide/hero_fisherman.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hero fisherman**
+
+<img src="{{site.baseurl}}/images/achievement_guide/citys_little_helper.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**City's little helper**
+
+<img src="{{site.baseurl}}/images/achievement_guide/goodie_two_shoes.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Goodie two-shoes**
+
+<img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Reading is radical**
+
+<img src="{{site.baseurl}}/images/achievement_guide/true_heroines.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**True heroines**
+
+<img src="{{site.baseurl}}/images/achievement_guide/learn_to_count.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Learn to count**
+
+<img src="{{site.baseurl}}/images/achievement_guide/papers_please.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Papers, please!**
+
+<img src="{{site.baseurl}}/images/achievement_guide/power_of_word.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Power of word**
+
+<img src="{{site.baseurl}}/images/achievement_guide/steal_what_was_stolen.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Steal what was stolen**
