@@ -80,18 +80,34 @@ The Goblin lives at the very top of the Four Peaks (this location will open to y
 
 <img src="{{site.baseurl}}/images/achievement_guide/glory_in_battle.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Glory in battle!**
 
+Multistage achievement. First, wait until Felicia is level 4 or higher, grab a bottle of live ink (you can find one or after obtaining the Thieves Guild bagde purchase one for 1000 coins from the "secret wares" of the merchant in the first floor of the coffee shop) and go to the magic pump in the Stryzhinsk sewers. After deciphering the magic book located near the pump, the sorceress learns the spell "Wave". Next, you need to apply this spell in any battle, such that it backfires and hits the heroines (the probability of this sad event is 50%, so it will definitely happen on the second or third attempt). Felicia will understand that the spell needs to be improved. Next, go to the subspace of the late sorceress Larisa in Yonka, elementals live in the southeast. Approach them, and Felicia will be able to improve the spell to the version of "Wave +", which only hits enemies. A side effect of the improvement process is that a huge and very evil elemental breaks free. There is a choice. The quick and easy way is to do as Felicia advises and pull the emergency mana release lever. The difficult way is to meet the elemental in the battle and defeat it. If you want the achievement, you have to go the hard way.
+
 <img src="{{site.baseurl}}/images/achievement_guide/train_hard.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Train hard ...**
 
+After completing Anastasia's quest and enrolling her in the Warriors Guild, battles in the arena will become available In order to enroll in a battle, talk to the Warriors Guild captain. There are two options - battle against monsters and battle against a team of warriors. The first monsters depend on which of the merchants you supported - it will be rats or cyclopoda. Most likely, you trample them without much difficulty. The second monster is much cooler - Cerberus. The third and last is a giant slug. It regenerates health, bites painfully and imposes poisoning immediately on the entire batch. Teams in general are easier. There are two of them. The first is four warriors. Lacking magical support and healing, they are fairly weak opponents. The second team is more diverse, there is even a priestess who heals associates. Take it out first. When you win all five battles, get this achievement.
 
 # Legendary Equipment Achievements
 
 <img src="{{site.baseurl}}/images/achievement_guide/earth_amulet.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Earth Amulet**
 
+It is made of three amulets - one is obtained as a trophy after defeating the adventure goblins (see the **Antiheroines** achievement), the second falls from a giant spider that lives in a hole in the southeast of the goblin cave in Four Peaks, and the third is an ordinary protective amulet which you can buy or find. The blacksmith Olaf in Roadside will be happy to collect the common amulet It is made of three amulets - one is obtained as a trophy after defeating adventure goblins (see the Antiheroines achievement), the second falls from a giant spider that lives in a hole in the southeast of the goblin cave in Four Peaks, the third - an ordinary protective amulet which you can buy or find. The blacksmith Olaf in Roadside will craft this amulet for 2000 coins and 8 bottles of Rowanberry, and grant you the achievement.
+
 <img src="{{site.baseurl}}/images/achievement_guide/soldiers_spirit.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Soldier's spirit**
+
+The Soul of the Soldier’s Spear is located in a lumberjack camp near Sliver. In the northern part of the location, look for the passage between the trees, leading further north. Through it you will find yourself in a secluded clearing, where, if Diana has a sufficiently high perception, you will find in the grass a skeleton of a gnome stabbed with a spear. Pick up a spear, bring it to the blacksmith Olaf in the roadside. You purchase two spheres of souls from him for 2000 coins. Go to hall of fame (1st floor, southeast) in the Warriors Guild, and absorb the aura of shovels and brooms. You return to Olaf, and he finishes work on the spear for 1000 coins and 6 bottles of Rowanberry.
 
 <img src="{{site.baseurl}}/images/achievement_guide/star_guardian.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Star Guardian**
 
+Every week, except for the week of the cow and the mimic, creatures corresponding to this week appear in the Star Cave. Among them there is a star avatar - a noticeably larger and stronger version of the corresponding creature. For defeating any avatar other than chicken or the mimic, you will receive a plate. There are 7 plates in total, one from each of the avatars. You can visit the blacksmith Olaf in Roadside with any number of plates, starting with one. He will examine them and say that he can make a shield out of them. When you collect all seven, have Olaf craft the shield.
+
+
 <img src="{{site.baseurl}}/images/achievement_guide/Shepherd_girls.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Shepherd Girls**
+
+To get the shepherd’s staff, you need to wait for the cow week. Unfortunately, it is not possible to order it from the astrologer. Save before exiting from any location, go to the global map. If the new week has not begun, just play on. But if a new week has been announced when entering the global map, rejoice. The week is determined randomly at the time of exit, so reload the save until the week of the cow falls. Then go to the Star Cave, in its northern part you will find a stone slab that you can inspect. Inspect the tablet and get transported to the cow level. Navigate to the northeast corner where you see a chest guarded by two minotaurs and a portal. Kill the minotaurs, search the chest (get the staff and the achievement), through the portal you return to the real world.
+
+<img src="{{site.baseurl}}/images/achievement_guide/original_prankster.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original prankster**
+
+In Sableby, ask residents about the underground passage to the church. If you have already visited the dungeon, then talk about it with the innkeeper. Wells in the village should become active. You climb into the well in front of the village elder's house (you need a rope and 4 water breathing potions). You find yourself in a separate corner of the dungeon, which cannot be reached in any other way. If Diana’s perception is high enough, she will see an object lying in the water - a rusty magic sword. In order to get this achievement, visit the blacksmith Olaf in Roadside, and have him restore the sword for 2000 coins and 4 bottles of Rowanberry.
 
 # Fetch/Collection Quests Achievements
 
