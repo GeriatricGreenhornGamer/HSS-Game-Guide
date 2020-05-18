@@ -146,17 +146,43 @@ Books are required for a school in Sliver. To complete the quest, it is enough t
 
 * Librarian in the Strizhinsk library (3)
 
-<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_library.PNG" scale="30%"/>
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_library.PNG"/>
 
-* Teacher in the Strizhinsk school
-* Mother Fedor in Strizhinsk convent
-* Bronnik Frol in Stryzhinsk
-* Chief Secretary of the Prefecture in Strizhinsk
-* Lieutenant Milorad in the Warriors Guild in Roadside
-* Woman Growing Mushrooms in Yonke
-* Office of the late sorceress Larisa in Yonka
-* Village elder in Sawdust
-* Village elder in Sableby (can be found in the local tavern)
+* Teacher in the Strizhinsk school (2)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_school.PNG"/>
+
+* Mother Theodora in the Strizhinsk convent (4)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_church.PNG"/>
+
+* Bronnik Frol (armorer) in Strizhinsk (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_armorer.PNG"/>
+
+* Chief Secretary of the Prefecture in Strizhinsk (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_prefecture.PNG"/>
+
+* Lieutenant Milorad in the Warriors Guild in Roadside (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_warrior_guild.PNG"/>
+
+* Woman Growing Mushrooms in Yonke (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_yonka_mushroom_girl.PNG"/>
+
+* Office of the late sorceress Larisa in Yonka (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_larissa_dimension.PNG"/>
+
+* Village elder in Sawdust (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_sawdust_elder.PNG"/>
+
+* Village elder in Sableby (can be found in the local tavern) (1)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_sableby_elder.PNG"/>
 
 You can immediately collect all 16 books and submit them. Alternatively, you can first collect and submit the required 15, and bring the remaining one later. The achievement will unlock when 16 books are at the teacher's place in Sliver.
 
