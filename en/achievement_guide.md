@@ -111,7 +111,7 @@ In Sableby, ask residents about the underground passage to the church. If you ha
 
 # Fetch/Collection Quests Achievements
 
-<img src="{{site.baseurl}}/images/achievement_guide/god_will_hear_thee.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gods will hear thee**
+<img src="{{site.baseurl}}/images/achievement_guide/gods_will_hear_thee.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gods will hear thee**
 
 In Strizhinsk convent, there is a donation box to the west of the main entrance. A one-time fee is 250 coins. Donate to the gods six times (i.e. 1,500 coins in total) - and they will respond. Svetlana will learn the Pillar of Light prayer, and you will receive an achievement.
 
@@ -164,7 +164,7 @@ Take a steam bath ten times in the bathhouse. There are two saunas in the game -
 
 <img src="{{site.baseurl}}/images/achievement_guide/hero_fisherman.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hero fisherman**
 
-<img src="{{site.baseurl}}/images/achievement_guide/citys_little_helper.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**City's little helper**
+<img src="{{site.baseurl}}/images/achievement_guide/citys_little_helpers.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**City's little helpers**
 
 <img src="{{site.baseurl}}/images/achievement_guide/goodie_two_shoes.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Goodie two-shoes**
 
