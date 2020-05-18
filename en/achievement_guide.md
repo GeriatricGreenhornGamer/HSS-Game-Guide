@@ -100,7 +100,6 @@ The Soul of the Soldier’s Spear is located in a lumberjack camp near Sliver. I
 
 Every week, except for the week of the cow and the mimic, creatures corresponding to this week appear in the Star Cave. Among them there is a star avatar - a noticeably larger and stronger version of the corresponding creature. For defeating any avatar other than chicken or the mimic, you will receive a plate. There are 7 plates in total, one from each of the avatars. You can visit the blacksmith Olaf in Roadside with any number of plates, starting with one. He will examine them and say that he can make a shield out of them. When you collect all seven, have Olaf craft the shield.
 
-
 <img src="{{site.baseurl}}/images/achievement_guide/stubs/shepherd_girls.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Shepherd Girls**
 
 To get the shepherd’s staff, you need to wait for the cow week. Unfortunately, it is not possible to order it from the astrologer. Save before exiting from any location, go to the global map. If the new week has not begun, just play on. But if a new week has been announced when entering the global map, rejoice. The week is determined randomly at the time of exit, so reload the save until the week of the cow falls. Then go to the Star Cave, in its northern part you will find a stone slab that you can inspect. Inspect the tablet and get transported to the cow level. Navigate to the northeast corner where you see a chest guarded by two minotaurs and a portal. Kill the minotaurs, search the chest (get the staff and the achievement), through the portal you return to the real world.
@@ -144,7 +143,11 @@ Several robber gangs live on the global map - halfway from Strizhinsk to the roa
 <img src="{{site.baseurl}}/images/achievement_guide/stubs/knowledge_is_power.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Knowledge is power**
 
 Books are required for a school in Sliver. To complete the quest, it is enough to collect 15 pieces. However, there are 16 in total in the game, indicated by the achievement icon. A complete list of places to get books:
-* Librarian in the Strizhinsk library
+
+* Librarian in the Strizhinsk library (3)
+
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_library.PNG" scale="30"/>
+
 * Teacher in the Strizhinsk school
 * Mother Fedor in Strizhinsk convent
 * Bronnik Frol in Stryzhinsk
