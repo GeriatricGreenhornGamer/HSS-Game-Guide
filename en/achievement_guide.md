@@ -113,19 +113,52 @@ In Sableby, ask residents about the underground passage to the church. If you ha
 
 <img src="{{site.baseurl}}/images/achievement_guide/god_will_hear_thee.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gods will hear thee**
 
+In Strizhinsk convent, there is a donation box to the west of the main entrance. A one-time fee is 250 coins. Donate to the gods six times (i.e. 1,500 coins in total) - and they will respond. Svetlana will learn the Pillar of Light prayer, and you will receive an achievement.
+
 <img src="{{site.baseurl}}/images/achievement_guide/scrooge.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scrooge**
+
+The workaround is the city sewer. In one way or another, you get into the plot, so I’ll only note that you need to look for a way out of the city in the northeast corner. Free entry into the city is counted, oddly enough, not at the time of exiting the sewer into the city, but at the time of descent into the sewer through the hatch behind the city wall. Therefore, this achievement can be achieved quickly by standing in front of this hatch and going down and up as many times as needed.
 
 <img src="{{site.baseurl}}/images/achievement_guide/30_30_vision.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**30/30 vision**
 
+Collect all the gifts of the Laverna - there are 9 in the first act of the game. By the way, do not forget that each gift enhances Diana’s perception, so after receiving another gift revisit previous locations to find a lot of new and useful things that you have not noticed before. Full list of the gifts and their locations:
+
+* 4 you will find while completing the training task
+* 2 in the temple at the bottom of the crevasse while completing Svetlana's second quest
+* 1 in the basement of the Strizhinsk convent (Felicia's quest)
+* 1 student in the Strizhinsk school will exchange it for a bottle of live ink 
+* 1 is in Diana’s house in Sawdust
+
 <img src="{{site.baseurl}}/images/achievement_guide/toss_a_coin_to_your_watchman.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Toss a coin to your watchman**
+Pay for passing through the Stryzhinsk main gate 25 times. If it is a pity to spend money on an “honest” achievement, then accumulate 2500 coins, save the game, go through the gate the required number of times to earn the achievement, and then relaod. WARNING: If you complete the duty-free quest (see *Papers, please!* achievement) before you accumulate 25 paid passes, the achievement will become unavailable, forcing you to load an earlier save or (in the worst case) start the game again.
 
 <img src="{{site.baseurl}}/images/achievement_guide/pet_zoo.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Pet zoo**
 
+Cats, dogs, horses and chickens are counted (except for chickens from Sableby). Only those animals that can be reached are taken into account, therefore, seals on the roofs, in the Thieves Guild or in the monastery are not considered. Cows from a cow level are not counted towards this achievement. An accurate list of the location of animals is being compiled. Please see the subsection regarding this achievement for further information.
+
 <img src="{{site.baseurl}}/images/achievement_guide/fight_another_day.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fight another day**
+
+Several robber gangs live on the global map - halfway from Strizhinsk to the roadside, near Sobolka and near Yonki. Diana’s thief’s vision allows you to notice an ambush in advance and avoid the confrontation, which is extremely useful at the beginning of the game since the robbers are quite strong. Avoid the ambush 10 times and earn this achievement. You can just walk the right number of times back and forth along the road.
 
 <img src="{{site.baseurl}}/images/achievement_guide/knowledge_is_power.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Knowledge is power**
 
+Books are required for a school in Sliver. To complete the quest, it is enough to collect 15 pieces. However, there are 16 in total in the game, indicated by the achievement icon. A complete list of places to get books:
+* Librarian in the library of Strizhinsk
+* Teacher at the school of Strizhinsk
+* Mother Fedor in the convent of Strizhinsk
+* Bronnik Frol in Stryzhinsk
+* Chief Secretary of the Prefecture in Strizhinsk
+* Lieutenant Milorad in the Guild of Warriors in the Roadside
+* Woman Growing Mushrooms in Yonke
+* Office of the late sorceress Larisa in Yonke
+* Warden Chips
+* Warden Sobolki (can be found in the local tavern)
+
+You can immediately collect all 16 books and submit them. Alternatively, you can first collect and submit the required 15, and bring the remaining one later. The achievement will unlock when 16 books are at the teacher's place in Sliver.
+
 <img src="{{site.baseurl}}/images/achievement_guide/cleanliness_is_godliness.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cleanliness is godliness**
+
+Take a steam bath ten times in the bathhouse. There are two saunas in the game - in Strizhinsk (a visit costs 150 coins plus it must first be repaired by completing the appropriate quest) and in Roadside (it will cost only 100 coins per session and is available from the very beginning). The effect of the visit is the same - all heroines get + 10% to hits and mana for the next 1000 steps. The fastest way to achieve this is by accumulating a thousand coins and arriving in Roadside: save, steam up ten times, and reload. The achievement is earned, and your money remains intact.
 
 # Miscellaneous Quest Achievements
 
