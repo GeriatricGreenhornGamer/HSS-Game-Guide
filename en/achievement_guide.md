@@ -146,7 +146,7 @@ Books are required for a school in Sliver. To complete the quest, it is enough t
 
 * Librarian in the Strizhinsk library (3)
 
-<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_library.PNG" scale="30"/>
+<img src="{{site.baseurl}}/images/achievement_guide/textbooks_strizhinsk_library.PNG" scale="30%"/>
 
 * Teacher in the Strizhinsk school
 * Mother Fedor in Strizhinsk convent
