@@ -212,6 +212,24 @@ After defeating the minotaur in the Sableby dungeon (see the **Hero’s labors**
 
 After delivering books to Sliver School (regardless of whether you brought the minimum required 15 or all 16), go to the Strizhinsk library. Talk to the librarian about the statue in the center of the room, then go up and touch the statue. The god of knowledge will begin to ask you questions. Correctly answer all questions in order to get a reward and an achievement.
 
+| Question | Answer |
+|:------|:-------|
+|1. What is my name? | Livius
+|2. What gods form the trinity of light? | Eos, Svetodar, Amalia|
+|3. What god comes from the plane of Light, but the church forbids to worship him and persecutes his followers?| Mammon
+|4. Which god is worshpped by goblins? | Gymrmork |
+|5. Is Strizhinsk a part of Rodonia or the Jewel Republic?| It's one country! |
+|6. Which city stands on the shore of the ocean sea?| Saltanovsk|
+|7. Who rules the Jewel Republic?| The Archconsul with the approval of the Senate|
+|8. Who founded Strizhinsk?| Warchief Arseny|
+|9. What is the name of the current Mother Superior of the Strizhinsk nunnery?| Theodora|
+|10. What is the name of the captain of the Strizhinsk outpost of the guild of warriors? | Gorislav|
+|11. What is the beast of Rodonia? | Zhrugr|
+|12. What schools of mgic are there?| Lesser, Divine, Supreme|
+|13. What is a schismatic organization of crinimal sorcerers called? | Red sorcerers|
+|14. Which order ensures the national safety of the Jewel Republic? | Eye of the Sovereign|
+|15. Solve the equatio by specifying the biggest solution: $x(x-1)=12$| $4$|
+
 <img src="{{site.baseurl}}/images/achievement_guide/stubs/true_heroines.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**True heroines**
 
 At the end of the first act, when the goblins attack two houses in Sliver, there will be a choice - go to save one of them or split the party into two and try to save both. If you choose the last option - you have to fight twice with two groups of goblins: once in the first house with Svetlana and Felicia; and again in the other house with Anastasia and Diana.
