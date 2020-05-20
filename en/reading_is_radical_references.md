@@ -13,27 +13,27 @@ WARNING: This section contains many spoilers for the game.
 
 # **Reading is Radical** Acheivement References
 
-1. What is my name?
+**1. What is my name?**
 
-<img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q1.PNG"/>
+    <img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q1.PNG"/>
 
-Talking to the Strizhinsk librarian about the statue
+    Talking to the Strizhinsk librarian about the statue
 
-2. What gods form the trinity of light?
+**2. What gods form the trinity of light?**
 
-<img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q2.PNG"/>
+    <img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q2.PNG"/>
 
-A conversation with Mother Theodora about the trinity of light
+    A conversation with Mother Theodora about the trinity of light
 
-3. What god comes from plane of Light, but the church forbids to orship him and persecutes his followers?
+**3. What god comes from plane of Light, but the church forbids to orship him and persecutes his followers?**
 
-<img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q3.PNG"/>
+    <img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q3.PNG"/>
 
-Mother Theodora discussing the gods of light and Mammon
+    Mother Theodora discussing the gods of light and Mammon
 
-<img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q3_alternative.PNG"/>
+    <img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q3_alternative.PNG"/>
 
-Diana discussing the gods of light and Mammon during a quest
+    Diana discussing the gods of light and Mammon during a quest
 
 4. Which god is worshipped by goblins?
 
