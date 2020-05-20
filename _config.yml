@@ -56,4 +56,6 @@ exclude:
   - README.md
 
 chapters:
- - path: en/achievement_guide.md
+  - path: en/achievement_guide.md
+  sections:
+    -path: en/reading_is_radical_references.md
