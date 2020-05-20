@@ -54,6 +54,7 @@ Complete the first (and currently only) act of the game.
 When completing Svetlana's first quest, there is a minotaur in the central part of the dungeon in Sableby. Kill the minotaur in order to earn this achievement.
 
 <img src="{{site.baseurl}}/images/achievement_guide/stubs/every_nook_and_cave.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Every nook and cave**
+
 The troll lives in a cave in the north of the Old Quarry. From the entrance, move along the map to the cave where the troll lives: look for a passage to the north; move west along the upper boundary; and go south-west along a winding gorge. The entrance to the cave is at the end of the gorge.
 
 <img src="{{site.baseurl}}/images/achievement_guide/stubs/were_afraid_of_no_ghost.jpg" width="64px" height="64px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**We're afraid of no ghost!**
