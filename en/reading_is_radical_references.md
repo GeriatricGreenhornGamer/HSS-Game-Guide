@@ -15,9 +15,9 @@ WARNING: This section contains many spoilers for the game.
 
 **1. What is my name?**
 
-    <img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q1.PNG"/>
+<img src="{{site.baseurl}}/images/achievement_guide/reading_is_radical_references/q1.PNG"/>
 
-    Talking to the Strizhinsk librarian about the statue
+Talking to the Strizhinsk librarian about the statue
 
 **2. What gods form the trinity of light?**
 
