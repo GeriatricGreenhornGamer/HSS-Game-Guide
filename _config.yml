@@ -58,4 +58,4 @@ exclude:
 chapters:
   - path: en/achievement_guide.md
   sections:
-    -path: en/reading_is_radical_references.md
+    - path: en/reading_is_radical_references.md
