@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Achievement Guide"
+authors: GeriatricGreenhornGamer
 lang-ref: home
 ---
 
