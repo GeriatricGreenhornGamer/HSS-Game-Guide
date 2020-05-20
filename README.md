@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Heroines of Swords & Spells Game Guide"
+authors: GeriatricGreenhornGamer
 lang-ref: home
 ---
 
